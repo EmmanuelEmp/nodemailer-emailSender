@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(218, 247, 218);
+}
+.form-control{
+ margin: 10px;
+}
+
+footer{
+    position: fixed; left: 2em; bottom: 0;
+}
+.head{
+    margin-top: 2em;
+    text-align: center;
+} 
+
+.submit{
+    color:  #fff;
+    background-color: rgb(19, 131, 19);
+}
+.submit :hover{
+
+}
